@@ -1,0 +1,6 @@
+.dishes-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding-top: 2rem;
+}

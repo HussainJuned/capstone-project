@@ -1,0 +1,14 @@
+main {
+    margin-top: 150px;
+}
+
+.special-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    font-size: 2.5rem;
+    color: var(--highlight-color-2);
+    margin: 0;
+}
